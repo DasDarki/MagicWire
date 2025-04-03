@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicWire", "MagicWire\MagicWire.csproj", "{912E68A5-E707-469D-80B6-0989616F237C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicWire.SourceGenerators", "MagicWire.SourceGenerators\MagicWire.SourceGenerators.csproj", "{5E2D6F46-F754-4489-A266-648B537E44F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicWire.Test", "MagicWire.Test\MagicWire.Test.csproj", "{751F195C-C139-43DA-B9A1-FD7EEDA24200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{912E68A5-E707-469D-80B6-0989616F237C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912E68A5-E707-469D-80B6-0989616F237C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912E68A5-E707-469D-80B6-0989616F237C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912E68A5-E707-469D-80B6-0989616F237C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E2D6F46-F754-4489-A266-648B537E44F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2D6F46-F754-4489-A266-648B537E44F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2D6F46-F754-4489-A266-648B537E44F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2D6F46-F754-4489-A266-648B537E44F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{751F195C-C139-43DA-B9A1-FD7EEDA24200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751F195C-C139-43DA-B9A1-FD7EEDA24200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751F195C-C139-43DA-B9A1-FD7EEDA24200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751F195C-C139-43DA-B9A1-FD7EEDA24200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
